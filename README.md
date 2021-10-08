@@ -1,6 +1,6 @@
 ## Command list 👇
 
->`apt update && apt upgrade -y`
+>`pkg update && pkg upgrade -y`
 
 >`pkg install git -y`
 
